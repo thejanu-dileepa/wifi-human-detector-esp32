@@ -3,7 +3,7 @@ import csv
 import time
 
 # Your Serial Port
-SERIAL_PORT = 'COM8'
+SERIAL_PORT = 'COM3'
 BAUD_RATE = 115200
 
 # 🔴 This is where we change the recording label/scenario. 
