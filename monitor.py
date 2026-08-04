@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import time
 
 # Port and Baud Rate where the ESP32 is connected
-SERIAL_PORT = 'COM8' 
+SERIAL_PORT = 'COM3' 
 BAUD_RATE = 115200
 
 # Open the serial connection

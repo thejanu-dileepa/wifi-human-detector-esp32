@@ -6,7 +6,7 @@ from collections import deque
 # Suppress minor warnings from Scikit-learn
 warnings.filterwarnings("ignore")
 
-SERIAL_PORT = 'COM8'
+SERIAL_PORT = 'COM3'
 BAUD_RATE = 115200
 SAMPLES_PER_PREDICTION = 30 # Because we trained with 30 data points
 
