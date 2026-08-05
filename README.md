@@ -1,5 +1,7 @@
 # ESP32 Wi‑Fi CSI Human Movement Detector (RF‑Pose)
 
+<img width="1247" height="701" alt="image" src="https://github.com/user-attachments/assets/b700ef7b-4613-4754-9419-0dfa798e0b0a" />
+
 An experimental "through‑wall" movement detector that extracts Wi‑Fi CSI (Channel State Information) from an ESP32 board and uses simple machine‑learning to detect movement patterns (for example: empty room vs. human walking).
 
 **Important:** This repository provides tools for data collection, visualization, model training, and live inference. It is intended for research and learning—use responsibly and respect privacy and legal constraints in your jurisdiction.
